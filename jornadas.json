@@ -1,0 +1,242 @@
+{
+  "competicao": "Liga Portugal Betclic",
+  "pontosPorAcerto": 3,
+  "jornadas": [
+    {
+      "n": 3,
+      "jogos": [
+        {
+          "casa": "Marítimo",
+          "fora": "Académico",
+          "idCasa": 5575,
+          "idFora": 5527,
+          "resultado": "2-2"
+        },
+        {
+          "casa": "Estoril Praia",
+          "fora": "Rio Ave FC",
+          "idCasa": 582,
+          "idFora": 496,
+          "resultado": ""
+        },
+        {
+          "casa": "Sporting CP",
+          "fora": "FC Alverca",
+          "idCasa": 498,
+          "idFora": 7822,
+          "resultado": ""
+        },
+        {
+          "casa": "Vitória SC",
+          "fora": "Nacional",
+          "idCasa": 5543,
+          "idFora": 5529,
+          "resultado": ""
+        },
+        {
+          "casa": "Santa Clara",
+          "fora": "FC Famalicão",
+          "idCasa": 5530,
+          "idFora": 5531,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Porto",
+          "fora": "FC Arouca",
+          "idCasa": 503,
+          "idFora": 712,
+          "resultado": ""
+        },
+        {
+          "casa": "Gil Vicente FC",
+          "fora": "Casa Pia AC",
+          "idCasa": 5533,
+          "idFora": 6618,
+          "resultado": ""
+        }
+      ],
+      "patronos": [
+        {
+          "nome": "Diogo Rodrigues",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "v0ltz98",
+          "picks": [
+            "1",
+            "1",
+            "1",
+            "X",
+            "2",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Afonso carvalho",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "X",
+            "2",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Diogo",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "X",
+            "2",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Leonardo Conceição",
+          "picks": [
+            "X",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "nome": "Gonçalo Pia",
+          "picks": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "usiL",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "1",
+            "X",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "nome": "Rodrigo Táboas",
+          "picks": [
+            "1",
+            "2",
+            "1",
+            "1",
+            "2",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "João Moreira Martins",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "1",
+            "X",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "nome": "Igor Dias",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "1",
+            "2",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "nome": "Gonçalo Castro",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Rodrigo Lopes",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "X",
+            "2",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Ricardo Costa",
+          "picks": [
+            "1",
+            "1",
+            "1",
+            "2",
+            "X",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "nome": "Bruno Rodrigues",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Bruno Ferreira",
+          "picks": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+name: Atualizar resultados
+
+# Corre sozinho no GitHub — nao precisa do PC ligado.
+on:
+  schedule:
+    # de 20 em 20 minutos. O GitHub pode atrasar-se uns minutos em horas de ponta.
+    - cron: '*/20 * * * *'
+  workflow_dispatch:        # botao "Run workflow" para forcar a mao
+  push:
+    paths:
+      - 'jornadas.json'     # publicaste palpites novos: atualiza ja
+
+permissions:
+  contents: write
+
+concurrency:
+  group: resultados
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Ir buscar os resultados
+        env:
+          TOKEN_FUTEBOL: ${{ secrets.TOKEN_FUTEBOL }}
+        run: node atualizar.mjs
+
+      - name: Guardar se houver novidade
+        run: |
+          if [ -z "$(git status --porcelain dados.json)" ]; then
+            echo "Nada mudou."
+            exit 0
+          fi
+          git config user.name "atualizacao automatica"
+          git config user.email "actions@github.com"
+          git add dados.json
+          git commit -m "resultados: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
