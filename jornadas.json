@@ -237,6 +237,75 @@
           ]
         }
       ]
+    },
+    {
+      "n": 4,
+      "jogos": [
+        {
+          "casa": "Rio Ave FC",
+          "fora": "Sporting CP",
+          "idCasa": 496,
+          "idFora": 498,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Alverca",
+          "fora": "Santa Clara",
+          "idCasa": 7822,
+          "idFora": 5530,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Arouca",
+          "fora": "Marítimo",
+          "idCasa": 712,
+          "idFora": 5575,
+          "resultado": ""
+        },
+        {
+          "casa": "Académico",
+          "fora": "FC Porto",
+          "idCasa": 5527,
+          "idFora": 503,
+          "resultado": ""
+        },
+        {
+          "casa": "Nacional",
+          "fora": "Est. Amadora",
+          "idCasa": 5529,
+          "idFora": 9136,
+          "resultado": ""
+        },
+        {
+          "casa": "Casa Pia AC",
+          "fora": "Moreirense",
+          "idCasa": 6618,
+          "idFora": 583,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Famalicão",
+          "fora": "Gil Vicente FC",
+          "idCasa": 5531,
+          "idFora": 5533,
+          "resultado": ""
+        },
+        {
+          "casa": "SL Benfica",
+          "fora": "Estoril Praia",
+          "idCasa": 1903,
+          "idFora": 582,
+          "resultado": ""
+        },
+        {
+          "casa": "SC Braga",
+          "fora": "Vitória SC",
+          "idCasa": 5613,
+          "idFora": 5543,
+          "resultado": ""
+        }
+      ],
+      "patronos": []
     }
   ]
 }
