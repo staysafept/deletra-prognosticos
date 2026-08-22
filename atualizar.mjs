@@ -85,13 +85,30 @@ for (const j of entrada.jornadas || []) {
   await new Promise((r) => setTimeout(r, 1200));
 }
 
-const saida = {
+const nucleo = {
   competicao: entrada.competicao,
   pontosPorAcerto: entrada.pontosPorAcerto ?? 3,
   fonte: '',
-  atualizado: new Date().toISOString(),
   semanas,
 };
 
+/* A hora de atualizacao so muda quando os dados mudam. Sem isto o ficheiro
+   ficava diferente de 20 em 20 minutos e o repositorio enchia-se de gravacoes
+   sem nada de novo. Assim "atualizado" quer mesmo dizer "quando os resultados
+   mudaram pela ultima vez". */
+let anterior = null;
+try { anterior = JSON.parse(fs.readFileSync('dados.json', 'utf8')); } catch {}
+
+const igual = anterior && JSON.stringify(nucleo) === JSON.stringify({
+  competicao: anterior.competicao,
+  pontosPorAcerto: anterior.pontosPorAcerto,
+  fonte: anterior.fonte,
+  semanas: anterior.semanas,
+});
+
+const saida = { ...nucleo, atualizado: igual ? anterior.atualizado : new Date().toISOString() };
+
 fs.writeFileSync('dados.json', JSON.stringify(saida) + '\n', 'utf8');
-console.log(`dados.json escrito: ${semanas.length} jornadas, ${mudancas} resultados novos.`);
+console.log(igual
+  ? `Nada mudou (${semanas.length} jornadas). Ficheiro deixado como estava.`
+  : `dados.json escrito: ${semanas.length} jornadas, ${mudancas} resultados novos.`);
