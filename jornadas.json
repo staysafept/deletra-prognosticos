@@ -6,6 +6,7 @@
       "n": 3,
       "mes": "2026-08",
       "nomeDoMes": "Agosto de 2026",
+      "ate": "2026-08-24T19:15:00.000Z",
       "jogos": [
         {
           "casa": "Marítimo",
@@ -244,6 +245,7 @@
       "n": 4,
       "mes": "2026-08",
       "nomeDoMes": "Agosto de 2026",
+      "ate": "2026-08-31T19:15:00.000Z",
       "jogos": [
         {
           "casa": "Rio Ave FC",
@@ -526,6 +528,7 @@
       "n": 5,
       "mes": "",
       "nomeDoMes": "",
+      "ate": "",
       "jogos": [
         {
           "casa": "FC Alverca",
