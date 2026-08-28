@@ -78,6 +78,7 @@ for (const j of entrada.jornadas || []) {
     n: j.n,
     mes: j.mes || '',                 // para a tabela dos melhores do mes
     nomeDoMes: j.nomeDoMes || '',
+    ate: j.ate || '',                 // para o site abrir na jornada a decorrer
     jogos,
     jogosPontuados: jogos.filter((g) => g.certo).length,
     lista: (j.patronos || []).map((p) => ({ nome: p.nome, picks: p.picks })),
