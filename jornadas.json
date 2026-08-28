@@ -4,6 +4,8 @@
   "jornadas": [
     {
       "n": 3,
+      "mes": "2026-08",
+      "nomeDoMes": "Agosto de 2026",
       "jogos": [
         {
           "casa": "Marítimo",
@@ -240,6 +242,8 @@
     },
     {
       "n": 4,
+      "mes": "2026-08",
+      "nomeDoMes": "Agosto de 2026",
       "jogos": [
         {
           "casa": "Rio Ave FC",
