@@ -309,6 +309,288 @@
           "resultado": ""
         }
       ],
+      "patronos": [
+        {
+          "nome": "usiL",
+          "picks": [
+            "2",
+            "X",
+            "X",
+            "2",
+            "1",
+            "X",
+            "X",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "nome": "Diogo",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "X",
+            "2",
+            "X",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Leonardo Conceição",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "2",
+            "1",
+            "X",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Manuel Azevedo",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "2",
+            "X",
+            "X",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "bernardo osorio",
+          "picks": [
+            "2",
+            "1",
+            "X",
+            "2",
+            "X",
+            "2",
+            "1",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "nome": "Diogo Sousa",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "2",
+            "1",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Axel Afonso",
+          "picks": [
+            "2",
+            "2",
+            "1",
+            "2",
+            "X",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "paulo_6",
+          "picks": [
+            "2",
+            "2",
+            "X",
+            "2",
+            "X",
+            "X",
+            "2",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "nome": "Igor Dias",
+          "picks": [
+            "2",
+            "X",
+            "X",
+            "2",
+            "1",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "André Malha",
+          "picks": [
+            "X",
+            "2",
+            "1",
+            "2",
+            "X",
+            "2",
+            "2",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Bruno Correia",
+          "picks": [
+            "X",
+            "X",
+            "1",
+            "X",
+            "1",
+            "2",
+            "X",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "nome": "Ricardo Cruz",
+          "picks": [
+            "2",
+            "2",
+            "1",
+            "2",
+            "1",
+            "",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Ricardo Costa",
+          "picks": [
+            "2",
+            "2",
+            "1",
+            "2",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Hugo Ganhão",
+          "picks": [
+            "2",
+            "X",
+            "X",
+            "2",
+            "2",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "Rodrigo Táboas",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "2",
+            "1",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "mes": "",
+      "nomeDoMes": "",
+      "jogos": [
+        {
+          "casa": "FC Alverca",
+          "fora": "SC Braga",
+          "idCasa": 7822,
+          "idFora": 5613,
+          "resultado": ""
+        },
+        {
+          "casa": "Est. Amadora",
+          "fora": "FC Famalicão",
+          "idCasa": 9136,
+          "idFora": 5531,
+          "resultado": ""
+        },
+        {
+          "casa": "Sporting CP",
+          "fora": "Nacional",
+          "idCasa": 498,
+          "idFora": 5529,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Porto",
+          "fora": "Moreirense",
+          "idCasa": 503,
+          "idFora": 583,
+          "resultado": ""
+        },
+        {
+          "casa": "Santa Clara",
+          "fora": "Rio Ave FC",
+          "idCasa": 5530,
+          "idFora": 496,
+          "resultado": ""
+        },
+        {
+          "casa": "Gil Vicente FC",
+          "fora": "Académico",
+          "idCasa": 5533,
+          "idFora": 5527,
+          "resultado": ""
+        },
+        {
+          "casa": "Marítimo",
+          "fora": "SL Benfica",
+          "idCasa": 5575,
+          "idFora": 1903,
+          "resultado": ""
+        },
+        {
+          "casa": "Vitória SC",
+          "fora": "Casa Pia AC",
+          "idCasa": 5543,
+          "idFora": 6618,
+          "resultado": ""
+        },
+        {
+          "casa": "Estoril Praia",
+          "fora": "FC Arouca",
+          "idCasa": 582,
+          "idFora": 712,
+          "resultado": ""
+        }
+      ],
       "patronos": []
     }
   ]
