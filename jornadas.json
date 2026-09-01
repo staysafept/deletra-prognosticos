@@ -748,6 +748,219 @@
           "resultado": ""
         }
       ],
+      "patronos": [
+        {
+          "nome": "paulo_6",
+          "picks": [
+            "1",
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "nome": "Bruno Almeida",
+          "picks": [
+            "1",
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "nome": "Bruno Ferreira",
+          "picks": [
+            "1",
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "nome": "Silva Hugo",
+          "picks": [
+            "1",
+            "2",
+            "2",
+            "2",
+            "1",
+            "X",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "nome": "Bruno Rodrigues",
+          "picks": [
+            "1",
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "nome": "Eduardo Ribeiro",
+          "picks": [
+            "X",
+            "2",
+            "2",
+            "2",
+            "1",
+            "X",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "nome": "usiL",
+          "picks": [
+            "1",
+            "1",
+            "2",
+            "2",
+            "1",
+            "X",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "nome": "Gonçalo Lopes",
+          "picks": [
+            "1",
+            "X",
+            "X",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "nome": "Rodrigo Táboas",
+          "picks": [
+            "1",
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "nome": "bernardo osorio",
+          "picks": [
+            "1",
+            "X",
+            "X",
+            "X",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "mes": "2026-09",
+      "nomeDoMes": "Setembro de 2026",
+      "ate": "2026-09-12T00:00:00.000Z",
+      "jogos": [
+        {
+          "casa": "Moreirense",
+          "fora": "Marítimo",
+          "idCasa": 583,
+          "idFora": 5575,
+          "resultado": ""
+        },
+        {
+          "casa": "Rio Ave FC",
+          "fora": "Est. Amadora",
+          "idCasa": 496,
+          "idFora": 9136,
+          "resultado": ""
+        },
+        {
+          "casa": "SL Benfica",
+          "fora": "Gil Vicente FC",
+          "idCasa": 1903,
+          "idFora": 5533,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Famalicão",
+          "fora": "Sporting CP",
+          "idCasa": 5531,
+          "idFora": 498,
+          "resultado": ""
+        },
+        {
+          "casa": "Nacional",
+          "fora": "FC Alverca",
+          "idCasa": 5529,
+          "idFora": 7822,
+          "resultado": ""
+        },
+        {
+          "casa": "Casa Pia AC",
+          "fora": "FC Porto",
+          "idCasa": 6618,
+          "idFora": 503,
+          "resultado": ""
+        },
+        {
+          "casa": "SC Braga",
+          "fora": "Estoril Praia",
+          "idCasa": 5613,
+          "idFora": 582,
+          "resultado": ""
+        },
+        {
+          "casa": "Académico",
+          "fora": "Vitória SC",
+          "idCasa": 5527,
+          "idFora": 5543,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Arouca",
+          "fora": "Santa Clara",
+          "idCasa": 712,
+          "idFora": 5530,
+          "resultado": ""
+        }
+      ],
       "patronos": []
     }
   ]
