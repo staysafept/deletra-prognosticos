@@ -685,10 +685,10 @@
       "ate": "",
       "jogos": [
         {
-          "casa": "FC Alverca",
-          "fora": "SC Braga",
-          "idCasa": 7822,
-          "idFora": 5613,
+          "casa": "FC Porto",
+          "fora": "Moreirense",
+          "idCasa": 503,
+          "idFora": 583,
           "resultado": ""
         },
         {
@@ -699,31 +699,10 @@
           "resultado": ""
         },
         {
-          "casa": "Sporting CP",
-          "fora": "Nacional",
-          "idCasa": 498,
-          "idFora": 5529,
-          "resultado": ""
-        },
-        {
-          "casa": "FC Porto",
-          "fora": "Moreirense",
-          "idCasa": 503,
-          "idFora": 583,
-          "resultado": ""
-        },
-        {
-          "casa": "Santa Clara",
-          "fora": "Rio Ave FC",
-          "idCasa": 5530,
-          "idFora": 496,
-          "resultado": ""
-        },
-        {
-          "casa": "Gil Vicente FC",
-          "fora": "Académico",
-          "idCasa": 5533,
-          "idFora": 5527,
+          "casa": "FC Alverca",
+          "fora": "SC Braga",
+          "idCasa": 7822,
+          "idFora": 5613,
           "resultado": ""
         },
         {
@@ -734,10 +713,31 @@
           "resultado": ""
         },
         {
+          "casa": "Sporting CP",
+          "fora": "Nacional",
+          "idCasa": 498,
+          "idFora": 5529,
+          "resultado": ""
+        },
+        {
+          "casa": "Santa Clara",
+          "fora": "Rio Ave FC",
+          "idCasa": 5530,
+          "idFora": 496,
+          "resultado": ""
+        },
+        {
           "casa": "Vitória SC",
           "fora": "Casa Pia AC",
           "idCasa": 5543,
           "idFora": 6618,
+          "resultado": ""
+        },
+        {
+          "casa": "Gil Vicente FC",
+          "fora": "Académico",
+          "idCasa": 5533,
+          "idFora": 5527,
           "resultado": ""
         },
         {
