@@ -918,22 +918,6 @@
           ]
         }
       ]
-    },
-    {
-      "n": 6,
-      "mes": "",
-      "nomeDoMes": "",
-      "ate": "",
-      "jogos": [
-        {
-          "casa": "Académico",
-          "fora": "Académico",
-          "idCasa": 5527,
-          "idFora": 5527,
-          "resultado": ""
-        }
-      ],
-      "patronos": []
     }
   ]
 }
