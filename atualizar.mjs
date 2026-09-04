@@ -92,6 +92,7 @@ const nucleo = {
   competicao: entrada.competicao,
   pontosPorAcerto: entrada.pontosPorAcerto ?? 3,
   fonte: '',
+  premios: entrada.premios || { geral: 0, mes: '' },   // vem do jornadas.json
   semanas,
 };
 
@@ -106,6 +107,7 @@ const igual = anterior && JSON.stringify(nucleo) === JSON.stringify({
   competicao: anterior.competicao,
   pontosPorAcerto: anterior.pontosPorAcerto,
   fonte: anterior.fonte,
+  premios: anterior.premios,
   semanas: anterior.semanas,
 });
 
