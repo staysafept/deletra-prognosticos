@@ -83,6 +83,7 @@
       ],
       "patronos": [
         {
+          "ref": "1ci9616",
           "nome": "Diogo Rodrigues",
           "picks": [
             "1",
@@ -95,6 +96,7 @@
           ]
         },
         {
+          "ref": "194vsun",
           "nome": "v0ltz98",
           "picks": [
             "1",
@@ -107,6 +109,7 @@
           ]
         },
         {
+          "ref": "1xm5056",
           "nome": "Afonso carvalho",
           "picks": [
             "1",
@@ -119,6 +122,7 @@
           ]
         },
         {
+          "ref": "1omxnj",
           "nome": "Diogo Sousa",
           "picks": [
             "1",
@@ -131,6 +135,7 @@
           ]
         },
         {
+          "ref": "jf6eel",
           "nome": "Leonardo Conceição",
           "picks": [
             "X",
@@ -143,6 +148,7 @@
           ]
         },
         {
+          "ref": "3vema6",
           "nome": "Gonçalo Pia",
           "picks": [
             "1",
@@ -155,6 +161,7 @@
           ]
         },
         {
+          "ref": "1t7b4qt",
           "nome": "usiL",
           "picks": [
             "1",
@@ -167,6 +174,7 @@
           ]
         },
         {
+          "ref": "1oun4ta",
           "nome": "Rodrigo Táboas",
           "picks": [
             "1",
@@ -179,6 +187,7 @@
           ]
         },
         {
+          "ref": "7oqpsv",
           "nome": "João Moreira Martins",
           "picks": [
             "1",
@@ -191,6 +200,7 @@
           ]
         },
         {
+          "ref": "5htrkd",
           "nome": "Igor Dias",
           "picks": [
             "1",
@@ -203,6 +213,7 @@
           ]
         },
         {
+          "ref": "10u0y3c",
           "nome": "Gonçalo Castro",
           "picks": [
             "1",
@@ -215,6 +226,7 @@
           ]
         },
         {
+          "ref": "1ghdf72",
           "nome": "Rodrigo Lopes",
           "picks": [
             "1",
@@ -227,6 +239,7 @@
           ]
         },
         {
+          "ref": "1npqsof",
           "nome": "Ricardo Costa",
           "picks": [
             "1",
@@ -239,6 +252,7 @@
           ]
         },
         {
+          "ref": "vvgcpw",
           "nome": "Bruno Rodrigues",
           "picks": [
             "1",
@@ -251,6 +265,7 @@
           ]
         },
         {
+          "ref": "bmpnn4",
           "nome": "Bruno Ferreira",
           "picks": [
             "1",
@@ -336,6 +351,7 @@
       ],
       "patronos": [
         {
+          "ref": "1t7b4qt",
           "nome": "usiL",
           "picks": [
             "2",
@@ -350,6 +366,7 @@
           ]
         },
         {
+          "ref": "1h5pthx",
           "nome": "Diogo",
           "picks": [
             "2",
@@ -364,6 +381,7 @@
           ]
         },
         {
+          "ref": "jf6eel",
           "nome": "Leonardo Conceição",
           "picks": [
             "2",
@@ -378,6 +396,7 @@
           ]
         },
         {
+          "ref": "1lqfl00",
           "nome": "Manuel Azevedo",
           "picks": [
             "2",
@@ -392,6 +411,7 @@
           ]
         },
         {
+          "ref": "1ymxu64",
           "nome": "bernardo osorio",
           "picks": [
             "2",
@@ -406,6 +426,7 @@
           ]
         },
         {
+          "ref": "1omxnj",
           "nome": "Diogo Sousa",
           "picks": [
             "2",
@@ -420,6 +441,7 @@
           ]
         },
         {
+          "ref": "7qt8am",
           "nome": "Axel Afonso",
           "picks": [
             "2",
@@ -434,6 +456,7 @@
           ]
         },
         {
+          "ref": "1h9ns0x",
           "nome": "paulo_6",
           "picks": [
             "2",
@@ -448,6 +471,7 @@
           ]
         },
         {
+          "ref": "5htrkd",
           "nome": "Igor Dias",
           "picks": [
             "2",
@@ -462,6 +486,7 @@
           ]
         },
         {
+          "ref": "1gycty0",
           "nome": "André Malha",
           "picks": [
             "X",
@@ -476,6 +501,7 @@
           ]
         },
         {
+          "ref": "1493l17",
           "nome": "Bruno Correia",
           "picks": [
             "X",
@@ -490,6 +516,7 @@
           ]
         },
         {
+          "ref": "11hzlsm",
           "nome": "Ricardo Cruz",
           "picks": [
             "2",
@@ -504,6 +531,7 @@
           ]
         },
         {
+          "ref": "1npqsof",
           "nome": "Ricardo Costa",
           "picks": [
             "2",
@@ -518,6 +546,7 @@
           ]
         },
         {
+          "ref": "rbxyxc",
           "nome": "Hugo Ganhão",
           "picks": [
             "2",
@@ -532,6 +561,7 @@
           ]
         },
         {
+          "ref": "1oun4ta",
           "nome": "Rodrigo Táboas",
           "picks": [
             "2",
@@ -546,6 +576,7 @@
           ]
         },
         {
+          "ref": "vvgcpw",
           "nome": "Bruno Rodrigues",
           "picks": [
             "2",
@@ -560,6 +591,7 @@
           ]
         },
         {
+          "ref": "3vema6",
           "nome": "Gonçalo Pia",
           "picks": [
             "2",
@@ -574,6 +606,7 @@
           ]
         },
         {
+          "ref": "bmpnn4",
           "nome": "Bruno Ferreira",
           "picks": [
             "2",
@@ -588,6 +621,7 @@
           ]
         },
         {
+          "ref": "1ci9616",
           "nome": "Diogo Rodrigues",
           "picks": [
             "2",
@@ -602,7 +636,8 @@
           ]
         },
         {
-          "nome": "Visão do Adepto",
+          "ref": "156um9z",
+          "nome": "Manuel Pereira",
           "picks": [
             "2",
             "2",
@@ -616,6 +651,7 @@
           ]
         },
         {
+          "ref": "7oqpsv",
           "nome": "João Moreira Martins",
           "picks": [
             "X",
@@ -630,6 +666,7 @@
           ]
         },
         {
+          "ref": "irr4cm",
           "nome": "Miguel Tavares",
           "picks": [
             "2",
@@ -644,6 +681,7 @@
           ]
         },
         {
+          "ref": "zv06ur",
           "nome": "Cristóvão Silva",
           "picks": [
             "2",
@@ -658,6 +696,7 @@
           ]
         },
         {
+          "ref": "1d9piu0",
           "nome": "JOSE PIRES",
           "picks": [
             "2",
@@ -672,6 +711,7 @@
           ]
         },
         {
+          "ref": "1ghdf72",
           "nome": "Rodrigo Lopes",
           "picks": [
             "2",
@@ -686,6 +726,7 @@
           ]
         },
         {
+          "ref": "1m5vo4k",
           "nome": "Tiago Ramos",
           "picks": [
             "2",
@@ -773,6 +814,7 @@
       ],
       "patronos": [
         {
+          "ref": "1h9ns0x",
           "nome": "paulo_6",
           "picks": [
             "1",
@@ -787,6 +829,7 @@
           ]
         },
         {
+          "ref": "1yn8966",
           "nome": "Bruno Almeida",
           "picks": [
             "1",
@@ -801,6 +844,7 @@
           ]
         },
         {
+          "ref": "bmpnn4",
           "nome": "Bruno Ferreira",
           "picks": [
             "1",
@@ -815,6 +859,7 @@
           ]
         },
         {
+          "ref": "2rv40x",
           "nome": "Silva Hugo",
           "picks": [
             "1",
@@ -829,6 +874,7 @@
           ]
         },
         {
+          "ref": "vvgcpw",
           "nome": "Bruno Rodrigues",
           "picks": [
             "1",
@@ -843,6 +889,7 @@
           ]
         },
         {
+          "ref": "1ftnl2k",
           "nome": "Eduardo Ribeiro",
           "picks": [
             "X",
@@ -857,6 +904,7 @@
           ]
         },
         {
+          "ref": "1t7b4qt",
           "nome": "usiL",
           "picks": [
             "1",
@@ -871,6 +919,7 @@
           ]
         },
         {
+          "ref": "1h3izbq",
           "nome": "Gonçalo Lopes",
           "picks": [
             "1",
@@ -885,6 +934,7 @@
           ]
         },
         {
+          "ref": "1oun4ta",
           "nome": "Rodrigo Táboas",
           "picks": [
             "1",
@@ -899,6 +949,7 @@
           ]
         },
         {
+          "ref": "1ymxu64",
           "nome": "bernardo osorio",
           "picks": [
             "1",
@@ -913,6 +964,7 @@
           ]
         },
         {
+          "ref": "1gumk2u",
           "nome": "Ricardo Ferreira",
           "picks": [
             "1",
@@ -927,6 +979,7 @@
           ]
         },
         {
+          "ref": "11hzlsm",
           "nome": "Ricardo Cruz",
           "picks": [
             "1",
@@ -941,6 +994,7 @@
           ]
         },
         {
+          "ref": "lz5hqj",
           "nome": "Lito jnr",
           "picks": [
             "1",
@@ -955,6 +1009,7 @@
           ]
         },
         {
+          "ref": "1ahu973",
           "nome": "Rodrigo Ribas",
           "picks": [
             "1",
@@ -969,6 +1024,7 @@
           ]
         },
         {
+          "ref": "1ghdf72",
           "nome": "Rodrigo Lopes",
           "picks": [
             "1",
@@ -983,6 +1039,7 @@
           ]
         },
         {
+          "ref": "156um9z",
           "nome": "Manuel Pereira",
           "picks": [
             "1",
@@ -997,6 +1054,7 @@
           ]
         },
         {
+          "ref": "19ivnp9",
           "nome": "JorgeBM",
           "picks": [
             "1",
@@ -1011,6 +1069,7 @@
           ]
         },
         {
+          "ref": "5htrkd",
           "nome": "Igor Dias",
           "picks": [
             "1",
@@ -1025,6 +1084,7 @@
           ]
         },
         {
+          "ref": "10u0y3c",
           "nome": "Gonçalo Castro",
           "picks": [
             "1",
@@ -1039,6 +1099,7 @@
           ]
         },
         {
+          "ref": "a94ncr",
           "nome": "Hugo Filipe",
           "picks": [
             "1",
@@ -1053,6 +1114,7 @@
           ]
         },
         {
+          "ref": "jf6eel",
           "nome": "Leonardo Conceição",
           "picks": [
             "1",
@@ -1067,6 +1129,7 @@
           ]
         },
         {
+          "ref": "7qt8am",
           "nome": "Axel Afonso",
           "picks": [
             "1",
@@ -1081,6 +1144,7 @@
           ]
         },
         {
+          "ref": "y8kp0x",
           "nome": "carlos silva",
           "picks": [
             "1",
@@ -1095,6 +1159,7 @@
           ]
         },
         {
+          "ref": "1493l17",
           "nome": "Bruno Correia",
           "picks": [
             "1",
@@ -1109,6 +1174,7 @@
           ]
         },
         {
+          "ref": "11vy9uq",
           "nome": "Diogo Martins",
           "picks": [
             "1",
@@ -1123,6 +1189,7 @@
           ]
         },
         {
+          "ref": "19biey1",
           "nome": "Tiago Bandeida",
           "picks": [
             "1",
@@ -1137,6 +1204,7 @@
           ]
         },
         {
+          "ref": "1npqsof",
           "nome": "Ricardo Costa",
           "picks": [
             "1",
@@ -1151,6 +1219,7 @@
           ]
         },
         {
+          "ref": "qcrzyk",
           "nome": "Manuel Nazaré",
           "picks": [
             "1",
@@ -1165,6 +1234,7 @@
           ]
         },
         {
+          "ref": "3vema6",
           "nome": "Gonçalo Pia",
           "picks": [
             "1",
@@ -1179,6 +1249,7 @@
           ]
         },
         {
+          "ref": "18sm94e",
           "nome": "Pedro",
           "picks": [
             "1",
@@ -1193,6 +1264,7 @@
           ]
         },
         {
+          "ref": "1d9piu0",
           "nome": "JOSE PIRES",
           "picks": [
             "1",
@@ -1207,6 +1279,7 @@
           ]
         },
         {
+          "ref": "irr4cm",
           "nome": "Miguel Tavares",
           "picks": [
             "1",
@@ -1221,6 +1294,7 @@
           ]
         },
         {
+          "ref": "kb5dhy",
           "nome": "Afonso Sá",
           "picks": [
             "1",
@@ -1235,6 +1309,7 @@
           ]
         },
         {
+          "ref": "rbxyxc",
           "nome": "Hugo Ganhão",
           "picks": [
             "1",
@@ -1249,6 +1324,7 @@
           ]
         },
         {
+          "ref": "1omxnj",
           "nome": "Diogo Sousa",
           "picks": [
             "1",
@@ -1263,6 +1339,7 @@
           ]
         },
         {
+          "ref": "1lqfl00",
           "nome": "Manuel Azevedo",
           "picks": [
             "1",
@@ -1277,6 +1354,7 @@
           ]
         },
         {
+          "ref": "mp4qva",
           "nome": "Afonso Maria",
           "picks": [
             "1",
@@ -1291,6 +1369,7 @@
           ]
         },
         {
+          "ref": "1ci9616",
           "nome": "Diogo Rodrigues",
           "picks": [
             "1",
@@ -1305,6 +1384,7 @@
           ]
         },
         {
+          "ref": "1m5vo4k",
           "nome": "Tiago Ramos",
           "picks": [
             "1",
@@ -1319,6 +1399,7 @@
           ]
         },
         {
+          "ref": "5lwn4n",
           "nome": "Palma1904",
           "picks": [
             "1",
@@ -1333,6 +1414,7 @@
           ]
         },
         {
+          "ref": "7oqpsv",
           "nome": "João Moreira Martins",
           "picks": [
             "1",
@@ -1347,6 +1429,7 @@
           ]
         },
         {
+          "ref": "1tryaxm",
           "nome": "Martim Soares",
           "picks": [
             "1",
@@ -1361,6 +1444,7 @@
           ]
         },
         {
+          "ref": "281dtq",
           "nome": "Afonso",
           "picks": [
             "1",
@@ -1375,6 +1459,7 @@
           ]
         },
         {
+          "ref": "52qge1",
           "nome": "Miguel",
           "picks": [
             "1",
@@ -1389,6 +1474,7 @@
           ]
         },
         {
+          "ref": "efq6zr",
           "nome": "Simao filipe Oliveira silva",
           "picks": [
             "1",
@@ -1397,6 +1483,21 @@
             "2",
             "1",
             "1",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "1yisb9z",
+          "nome": "Hugo Saldanha",
+          "picks": [
+            "1",
+            "X",
+            "2",
+            "2",
+            "1",
+            "X",
             "1",
             "1",
             "X"
