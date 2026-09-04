@@ -1,6 +1,10 @@
 {
   "competicao": "Liga Portugal Betclic",
   "pontosPorAcerto": 3,
+  "premios": {
+    "geral": 3,
+    "mes": "2026-09"
+  },
   "jornadas": [
     {
       "n": 3,
