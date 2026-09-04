@@ -2,9 +2,28 @@
   "competicao": "Liga Portugal Betclic",
   "pontosPorAcerto": 3,
   "premios": {
-    "geral": 3,
-    "mes": "2026-09"
+    "geral": [
+      [
+        "Presença num episódio do DeLetra",
+        "6 meses de Sport TV",
+        "Camisola Oficial de um Clube à escolha",
+        "Bola Oficial da Liga"
+      ],
+      [
+        "Camisola Oficial de um Clube à escolha",
+        "3 meses de Sport TV"
+      ],
+      [
+        "Bola Oficial da Liga"
+      ]
+    ],
+    "mes": "2026-09",
+    "premioDoMes": [
+      "Camisola Oficial de um Clube à escolha"
+    ],
+    "nota": "Os prémios podem sofrer alguma alteração ao longo da competição."
   },
+  "titulo": "Liga dos Sócios DeLetra",
   "jornadas": [
     {
       "n": 3,
