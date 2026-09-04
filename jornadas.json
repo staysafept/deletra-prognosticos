@@ -722,17 +722,17 @@
           "resultado": ""
         },
         {
-          "casa": "FC Alverca",
-          "fora": "SC Braga",
-          "idCasa": 7822,
-          "idFora": 5613,
-          "resultado": ""
-        },
-        {
           "casa": "Marítimo",
           "fora": "SL Benfica",
           "idCasa": 5575,
           "idFora": 1903,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Alverca",
+          "fora": "SC Braga",
+          "idCasa": 7822,
+          "idFora": 5613,
           "resultado": ""
         },
         {
