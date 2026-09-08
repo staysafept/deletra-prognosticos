@@ -214,7 +214,7 @@
           ]
         },
         {
-          "ref": "xw6vnl",
+          "ref": "10u0y3c",
           "nome": "Gonçalo Castro",
           "picks": [
             "1",
@@ -890,7 +890,7 @@
           ]
         },
         {
-          "ref": "1do64y8",
+          "ref": "1ftnl2k",
           "nome": "Eduardo Ribeiro",
           "picks": [
             "X",
@@ -1085,7 +1085,7 @@
           ]
         },
         {
-          "ref": "xw6vnl",
+          "ref": "10u0y3c",
           "nome": "Gonçalo Castro",
           "picks": [
             "1",
@@ -1430,7 +1430,7 @@
           ]
         },
         {
-          "ref": "3l30d1",
+          "ref": "1tryaxm",
           "nome": "Martim Soares",
           "picks": [
             "1",
@@ -1460,7 +1460,7 @@
           ]
         },
         {
-          "ref": "cd45i1",
+          "ref": "52qge1",
           "nome": "Miguel",
           "picks": [
             "1",
@@ -1535,7 +1535,7 @@
           ]
         },
         {
-          "ref": "1g51kbw",
+          "ref": "1xioz2s",
           "nome": "Manuel Martins",
           "picks": [
             "1",
@@ -1951,6 +1951,126 @@
             "2",
             "1",
             "1"
+          ]
+        },
+        {
+          "ref": "156um9z",
+          "nome": "Manuel Pereira",
+          "picks": [
+            "2",
+            "2",
+            "2",
+            "1",
+            "1",
+            "2",
+            "X",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "52qge1",
+          "nome": "Miguel",
+          "picks": [
+            "2",
+            "2",
+            "X",
+            "1",
+            "X",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1xioz2s",
+          "nome": "Manuel Martins",
+          "picks": [
+            "1",
+            "2",
+            "2",
+            "1",
+            "1",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "5htrkd",
+          "nome": "Igor Dias",
+          "picks": [
+            "2",
+            "2",
+            "2",
+            "1",
+            "2",
+            "2",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "1ftnl2k",
+          "nome": "Eduardo Ribeiro",
+          "picks": [
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "2",
+            "1",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "10u0y3c",
+          "nome": "Gonçalo Castro",
+          "picks": [
+            "1",
+            "2",
+            "1",
+            "1",
+            "X",
+            "2",
+            "X",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "1tryaxm",
+          "nome": "Martim Soares",
+          "picks": [
+            "1",
+            "2",
+            "X",
+            "1",
+            "2",
+            "2",
+            "1",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "1npqsof",
+          "nome": "Ricardo Costa",
+          "picks": [
+            "1",
+            "2",
+            "X",
+            "1",
+            "X",
+            "2",
+            "2",
+            "2",
+            "X"
           ]
         }
       ]
