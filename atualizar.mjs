@@ -71,6 +71,7 @@ for (const j of entrada.jornadas || []) {
       fora: g.fora,
       resultado,
       certo: resultado === 'Adiado' ? null : sinal(resultado),
+      semana: g.jogoDaSemana === true || undefined,   // o jogo da semana, vale mais
     };
   });
 
@@ -81,7 +82,9 @@ for (const j of entrada.jornadas || []) {
     ate: j.ate || '',                 // para o site abrir na jornada a decorrer
     jogos,
     jogosPontuados: jogos.filter((g) => g.certo).length,
-    lista: (j.patronos || []).map((p) => ({ nome: p.nome, picks: p.picks })),
+    // o "ref" e a identidade do patrono; sem ele a pagina voltava a somar
+    // pelo nome e partia quem mudou de nome a meio da epoca
+    lista: (j.patronos || []).map((p) => ({ ref: p.ref, nome: p.nome, picks: p.picks })),
   });
 
   // o plano gratuito da API sao 10 pedidos por minuto
@@ -91,6 +94,7 @@ for (const j of entrada.jornadas || []) {
 const nucleo = {
   competicao: entrada.competicao,
   pontosPorAcerto: entrada.pontosPorAcerto ?? 3,
+  pontosJogoDaSemana: entrada.pontosJogoDaSemana ?? 6,
   fonte: '',
   premios: entrada.premios || { geral: 0, mes: '' },   // vem do jornadas.json
   semanas,
@@ -106,6 +110,7 @@ try { anterior = JSON.parse(fs.readFileSync('dados.json', 'utf8')); } catch {}
 const igual = anterior && JSON.stringify(nucleo) === JSON.stringify({
   competicao: anterior.competicao,
   pontosPorAcerto: anterior.pontosPorAcerto,
+  pontosJogoDaSemana: anterior.pontosJogoDaSemana,
   fonte: anterior.fonte,
   premios: anterior.premios,
   semanas: anterior.semanas,
