@@ -1,6 +1,7 @@
 {
   "competicao": "Liga Portugal Betclic",
   "pontosPorAcerto": 3,
+  "pontosJogoDaSemana": 6,
   "premios": {
     "geral": [
       [
@@ -1604,7 +1605,8 @@
           "fora": "Santa Clara",
           "idCasa": 712,
           "idFora": 5530,
-          "resultado": ""
+          "resultado": "",
+          "jogoDaSemana": true
         },
         {
           "casa": "FC Famalicão",
