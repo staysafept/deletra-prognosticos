@@ -860,7 +860,7 @@
           ]
         },
         {
-          "ref": "ozeems",
+          "ref": "2rv40x",
           "nome": "Silva Hugo",
           "picks": [
             "1",
@@ -965,7 +965,7 @@
           ]
         },
         {
-          "ref": "1lu7ous",
+          "ref": "1gumk2u",
           "nome": "Ricardo Ferreira",
           "picks": [
             "1",
@@ -1100,7 +1100,7 @@
           ]
         },
         {
-          "ref": "sbza1w",
+          "ref": "a94ncr",
           "nome": "Hugo Filipe",
           "picks": [
             "1",
@@ -1145,7 +1145,7 @@
           ]
         },
         {
-          "ref": "ds4xb7",
+          "ref": "y8kp0x",
           "nome": "carlos silva",
           "picks": [
             "1",
@@ -1175,7 +1175,7 @@
           ]
         },
         {
-          "ref": "11efzno",
+          "ref": "11vy9uq",
           "nome": "Diogo Martins",
           "picks": [
             "1",
@@ -1490,7 +1490,7 @@
           ]
         },
         {
-          "ref": "1t0dh5",
+          "ref": "1yisb9z",
           "nome": "Hugo Saldanha",
           "picks": [
             "1",
@@ -1637,7 +1637,173 @@
           "resultado": ""
         }
       ],
-      "patronos": []
+      "patronos": [
+        {
+          "ref": "1t7b4qt",
+          "nome": "usiL",
+          "picks": [
+            "1",
+            "2",
+            "2",
+            "1",
+            "X",
+            "2",
+            "1",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "1ymxu64",
+          "nome": "bernardo osorio",
+          "picks": [
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "X",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "y8kp0x",
+          "nome": "carlos silva",
+          "picks": [
+            "1",
+            "2",
+            "X",
+            "1",
+            "X",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "2rv40x",
+          "nome": "Silva Hugo",
+          "picks": [
+            "1",
+            "2",
+            "X",
+            "1",
+            "1",
+            "2",
+            "",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1gumk2u",
+          "nome": "Ricardo Ferreira",
+          "picks": [
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "a94ncr",
+          "nome": "Hugo Filipe",
+          "picks": [
+            "1",
+            "2",
+            "X",
+            "1",
+            "X",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1yisb9z",
+          "nome": "Hugo Saldanha",
+          "picks": [
+            "1",
+            "2",
+            "X",
+            "1",
+            "X",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1d9piu0",
+          "nome": "JOSE PIRES",
+          "picks": [
+            "X",
+            "2",
+            "X",
+            "1",
+            "X",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "dpxm54",
+          "nome": "Diogo Piedade",
+          "picks": [
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "2",
+            "2",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "18sm94e",
+          "nome": "Pedro Mendes",
+          "picks": [
+            "1",
+            "2",
+            "2",
+            "1",
+            "2",
+            "2",
+            "2",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "11vy9uq",
+          "nome": "Diogo Martins",
+          "picks": [
+            "X",
+            "2",
+            "X",
+            "1",
+            "X",
+            "2",
+            "1",
+            "1",
+            "1"
+          ]
+        }
+      ]
     }
   ]
 }
