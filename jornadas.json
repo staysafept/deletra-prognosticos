@@ -1355,7 +1355,7 @@
           ]
         },
         {
-          "ref": "1duf9wg",
+          "ref": "mp4qva",
           "nome": "Afonso Maria",
           "picks": [
             "1",
@@ -1550,7 +1550,7 @@
           ]
         },
         {
-          "ref": "x0g7q",
+          "ref": "1kgckcg",
           "nome": "Rodrigo Freitas",
           "picks": [
             "1",
@@ -1955,7 +1955,7 @@
         },
         {
           "ref": "156um9z",
-          "nome": "Manuel Pereira",
+          "nome": "Visão do Adepto",
           "picks": [
             "2",
             "2",
@@ -2235,6 +2235,96 @@
             "1",
             "X",
             "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1ci9616",
+          "nome": "Diogo Rodrigues",
+          "picks": [
+            "1",
+            "2",
+            "2",
+            "1",
+            "X",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "o7pj2f",
+          "nome": "Leandro Silva",
+          "picks": [
+            "2",
+            "2",
+            "2",
+            "1",
+            "X",
+            "2",
+            "2",
+            "X",
+            "X"
+          ]
+        },
+        {
+          "ref": "1kgckcg",
+          "nome": "Rodrigo Freitas",
+          "picks": [
+            "X",
+            "2",
+            "2",
+            "1",
+            "2",
+            "2",
+            "X",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "3vema6",
+          "nome": "Gonçalo Pia",
+          "picks": [
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "2",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "mp4qva",
+          "nome": "Afonso Maria",
+          "picks": [
+            "X",
+            "2",
+            "X",
+            "1",
+            "X",
+            "2",
+            "X",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "1m5vo4k",
+          "nome": "Tiago Ramos",
+          "picks": [
+            "2",
+            "2",
+            "2",
+            "1",
+            "1",
+            "X",
+            "2",
+            "X",
             "1"
           ]
         }
