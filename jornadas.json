@@ -2329,6 +2329,57 @@
           ]
         }
       ]
+    },
+    {
+      "n": 7,
+      "mes": "2026-09",
+      "nomeDoMes": "Setembro de 2026",
+      "ate": "2026-09-20T19:30:00.000Z",
+      "jogos": [
+        {
+          "casa": "Sporting CP",
+          "fora": "FC Arouca",
+          "idCasa": 498,
+          "idFora": 712,
+          "resultado": ""
+        },
+        {
+          "casa": "Vitória SC",
+          "fora": "Moreirense",
+          "idCasa": 5543,
+          "idFora": 583,
+          "resultado": ""
+        },
+        {
+          "casa": "Est. Amadora",
+          "fora": "Académico",
+          "idCasa": 9136,
+          "idFora": 5527,
+          "resultado": ""
+        },
+        {
+          "casa": "Santa Clara",
+          "fora": "SC Braga",
+          "idCasa": 5530,
+          "idFora": 5613,
+          "resultado": ""
+        },
+        {
+          "casa": "Estoril Praia",
+          "fora": "Casa Pia AC",
+          "idCasa": 582,
+          "idFora": 6618,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Porto",
+          "fora": "SL Benfica",
+          "idCasa": 503,
+          "idFora": 1903,
+          "resultado": ""
+        }
+      ],
+      "patronos": []
     }
   ]
 }
