@@ -830,7 +830,7 @@
           ]
         },
         {
-          "ref": "3u5rzf",
+          "ref": "1yn8966",
           "nome": "Bruno Almeida",
           "picks": [
             "1",
@@ -860,7 +860,7 @@
           ]
         },
         {
-          "ref": "ozeems",
+          "ref": "2rv40x",
           "nome": "Silva Hugo",
           "picks": [
             "1",
@@ -890,7 +890,7 @@
           ]
         },
         {
-          "ref": "1do64y8",
+          "ref": "1ftnl2k",
           "nome": "Eduardo Ribeiro",
           "picks": [
             "X",
@@ -965,7 +965,7 @@
           ]
         },
         {
-          "ref": "1lu7ous",
+          "ref": "1gumk2u",
           "nome": "Ricardo Ferreira",
           "picks": [
             "1",
@@ -1400,7 +1400,7 @@
           ]
         },
         {
-          "ref": "s6mbmr",
+          "ref": "5lwn4n",
           "nome": "Palma1904",
           "picks": [
             "1",
@@ -1684,7 +1684,7 @@
           ]
         },
         {
-          "ref": "ozeems",
+          "ref": "2rv40x",
           "nome": "Silva Hugo",
           "picks": [
             "1",
@@ -1699,7 +1699,7 @@
           ]
         },
         {
-          "ref": "1lu7ous",
+          "ref": "1gumk2u",
           "nome": "Ricardo Ferreira",
           "picks": [
             "X",
@@ -2014,7 +2014,7 @@
           ]
         },
         {
-          "ref": "1do64y8",
+          "ref": "1ftnl2k",
           "nome": "Eduardo Ribeiro",
           "picks": [
             "X",
@@ -2119,7 +2119,7 @@
           ]
         },
         {
-          "ref": "3u5rzf",
+          "ref": "1yn8966",
           "nome": "Bruno Almeida",
           "picks": [
             "X",
@@ -2179,7 +2179,7 @@
           ]
         },
         {
-          "ref": "s6mbmr",
+          "ref": "5lwn4n",
           "nome": "Palma1904",
           "picks": [
             "2",
@@ -2401,7 +2401,128 @@
           "jogoDaSemana": true
         }
       ],
-      "patronos": []
+      "patronos": [
+        {
+          "ref": "1gumk2u",
+          "nome": "Ricardo Ferreira",
+          "picks": [
+            "2",
+            "1",
+            "X",
+            "1",
+            "1",
+            "X",
+            "X",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "ref": "1yn8966",
+          "nome": "Bruno Almeida",
+          "picks": [
+            "X",
+            "1",
+            "1",
+            "1",
+            "X",
+            "X",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1h9ns0x",
+          "nome": "paulo_6",
+          "picks": [
+            "X",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "X",
+            "X",
+            "X"
+          ]
+        },
+        {
+          "ref": "5lwn4n",
+          "nome": "Palma1904",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "X",
+            "1",
+            "1",
+            "2",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "ref": "1adq1tl",
+          "nome": "Ernesto",
+          "picks": [
+            "X",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "ref": "1ftnl2k",
+          "nome": "Eduardo Ribeiro",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "X",
+            "2"
+          ]
+        },
+        {
+          "ref": "2rv40x",
+          "nome": "Silva Hugo",
+          "picks": [
+            "X",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "X",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "rbxyxc",
+          "nome": "Hugo Ganhão",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "X",
+            "1",
+            "2"
+          ]
+        }
+      ]
     }
   ]
 }
