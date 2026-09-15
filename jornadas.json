@@ -2397,7 +2397,8 @@
           "fora": "SL Benfica",
           "idCasa": 503,
           "idFora": 1903,
-          "resultado": ""
+          "resultado": "",
+          "jogoDaSemana": true
         }
       ],
       "patronos": []
