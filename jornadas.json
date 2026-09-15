@@ -2337,6 +2337,27 @@
       "ate": "2026-09-20T19:30:00.000Z",
       "jogos": [
         {
+          "casa": "Nacional",
+          "fora": "FC Famalicão",
+          "idCasa": 5529,
+          "idFora": 5531,
+          "resultado": ""
+        },
+        {
+          "casa": "Gil Vicente FC",
+          "fora": "Marítimo",
+          "idCasa": 5533,
+          "idFora": 5575,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Alverca",
+          "fora": "Rio Ave FC",
+          "idCasa": 7822,
+          "idFora": 496,
+          "resultado": ""
+        },
+        {
           "casa": "Sporting CP",
           "fora": "FC Arouca",
           "idCasa": 498,
@@ -2376,27 +2397,6 @@
           "fora": "SL Benfica",
           "idCasa": 503,
           "idFora": 1903,
-          "resultado": ""
-        },
-        {
-          "casa": "Nacional",
-          "fora": "FC Famalicão",
-          "idCasa": 5529,
-          "idFora": 5531,
-          "resultado": ""
-        },
-        {
-          "casa": "FC Alverca",
-          "fora": "Rio Ave FC",
-          "idCasa": 7822,
-          "idFora": 496,
-          "resultado": ""
-        },
-        {
-          "casa": "Gil Vicente FC",
-          "fora": "Marítimo",
-          "idCasa": 5533,
-          "idFora": 5575,
           "resultado": ""
         }
       ],
