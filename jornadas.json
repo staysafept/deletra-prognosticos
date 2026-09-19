@@ -2341,14 +2341,14 @@
           "fora": "FC Famalicão",
           "idCasa": 5529,
           "idFora": 5531,
-          "resultado": "0-3"
+          "resultado": "0-4"
         },
         {
           "casa": "Gil Vicente FC",
           "fora": "Marítimo",
           "idCasa": 5533,
           "idFora": 5575,
-          "resultado": "1-0"
+          "resultado": "1-1"
         },
         {
           "casa": "FC Alverca",
@@ -2936,9 +2936,9 @@
             "X",
             "1",
             "1",
-            "",
+            "1",
             "2",
-            "",
+            "1",
             "2"
           ]
         },
@@ -3036,30 +3036,15 @@
           "ref": "jf6eel",
           "nome": "Leonardo Conceição",
           "picks": [
+            "2",
             "1",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "ref": "18g45kh",
-          "nome": "De Letra",
-          "picks": [
+            "1",
+            "1",
             "1",
             "X",
             "2",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "X",
+            "2"
           ]
         },
         {
