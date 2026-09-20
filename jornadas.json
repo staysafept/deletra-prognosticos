@@ -2369,35 +2369,35 @@
           "fora": "Moreirense",
           "idCasa": 5543,
           "idFora": 583,
-          "resultado": ""
+          "resultado": "1-1"
         },
         {
           "casa": "Est. Amadora",
           "fora": "Académico",
           "idCasa": 9136,
           "idFora": 5527,
-          "resultado": ""
+          "resultado": "0-2"
         },
         {
           "casa": "Santa Clara",
           "fora": "SC Braga",
           "idCasa": 5530,
           "idFora": 5613,
-          "resultado": ""
+          "resultado": "0-0"
         },
         {
           "casa": "Estoril Praia",
           "fora": "Casa Pia AC",
           "idCasa": 582,
           "idFora": 6618,
-          "resultado": ""
+          "resultado": "1-2"
         },
         {
           "casa": "FC Porto",
           "fora": "SL Benfica",
           "idCasa": 503,
           "idFora": 1903,
-          "resultado": "",
+          "resultado": "3-1",
           "jogoDaSemana": true
         }
       ],
