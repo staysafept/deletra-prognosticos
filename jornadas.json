@@ -18,9 +18,14 @@
         "Bola Oficial da Liga"
       ]
     ],
-    "mes": "2026-09",
-    "premioDoMes": [
-      "Camisola Oficial de um Clube à escolha"
+    "mes": "",
+    "premioDoMes": [],
+    "vencedores": [
+      {
+        "mes": "2026-09",
+        "nome": "bernardo osorio",
+        "premio": "Camisola Oficial de um Clube à escolha"
+      }
     ],
     "nota": "Os prémios podem sofrer alguma alteração ao longo da competição."
   },
