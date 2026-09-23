@@ -21,7 +21,12 @@ jobs:
   atualizar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout (com retry)
+        uses: Wandalen/wretry.action@v3
+        with:
+          action: actions/checkout@v4
+          attempt_limit: 3
+          attempt_delay: 10000
 
       - uses: actions/setup-node@v4
         with:
