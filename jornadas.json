@@ -3158,6 +3158,78 @@
           ]
         }
       ]
+    },
+    {
+      "n": 8,
+      "mes": "2026-10",
+      "nomeDoMes": "Outubro de 2026",
+      "ate": "2026-10-12T19:15:00.000Z",
+      "jogos": [
+        {
+          "casa": "Moreirense",
+          "fora": "Gil Vicente FC",
+          "idCasa": 583,
+          "idFora": 5533,
+          "resultado": ""
+        },
+        {
+          "casa": "SC Braga",
+          "fora": "Sporting CP",
+          "idCasa": 5613,
+          "idFora": 498,
+          "resultado": ""
+        },
+        {
+          "casa": "Casa Pia AC",
+          "fora": "Santa Clara",
+          "idCasa": 6618,
+          "idFora": 5530,
+          "resultado": ""
+        },
+        {
+          "casa": "Marítimo",
+          "fora": "FC Porto",
+          "idCasa": 5575,
+          "idFora": 503,
+          "resultado": ""
+        },
+        {
+          "casa": "Académico",
+          "fora": "Estoril Praia",
+          "idCasa": 5527,
+          "idFora": 582,
+          "resultado": ""
+        },
+        {
+          "casa": "Rio Ave FC",
+          "fora": "Nacional",
+          "idCasa": 496,
+          "idFora": 5529,
+          "resultado": ""
+        },
+        {
+          "casa": "SL Benfica",
+          "fora": "Vitória SC",
+          "idCasa": 1903,
+          "idFora": 5543,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Arouca",
+          "fora": "Est. Amadora",
+          "idCasa": 712,
+          "idFora": 9136,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Famalicão",
+          "fora": "FC Alverca",
+          "idCasa": 5531,
+          "idFora": 7822,
+          "resultado": ""
+        }
+      ],
+      "patronos": []
     }
   ]
 }
