@@ -3090,7 +3090,53 @@
           "resultado": ""
         }
       ],
-      "patronos": []
+      "patronos": [
+        {
+          "ref": "1p3lbi7",
+          "nome": "Tiago Viana",
+          "picks": [
+            "2",
+            "X",
+            "2",
+            "2",
+            "2",
+            "X",
+            "1",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "1gumk2u",
+          "nome": "Ricardo Ferreira",
+          "picks": [
+            "X",
+            "2",
+            "2",
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "1qnzthx",
+          "nome": "João Viana",
+          "picks": [
+            "X",
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X"
+          ]
+        }
+      ]
     }
   ]
 }
