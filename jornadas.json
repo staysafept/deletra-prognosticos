@@ -2341,63 +2341,63 @@
           "fora": "FC Famalicão",
           "idCasa": 5529,
           "idFora": 5531,
-          "resultado": ""
+          "resultado": "0-4"
         },
         {
           "casa": "Gil Vicente FC",
           "fora": "Marítimo",
           "idCasa": 5533,
           "idFora": 5575,
-          "resultado": ""
+          "resultado": "1-1"
         },
         {
           "casa": "FC Alverca",
           "fora": "Rio Ave FC",
           "idCasa": 7822,
           "idFora": 496,
-          "resultado": ""
+          "resultado": "1-0"
         },
         {
           "casa": "Sporting CP",
           "fora": "FC Arouca",
           "idCasa": 498,
           "idFora": 712,
-          "resultado": ""
+          "resultado": "2-2"
         },
         {
           "casa": "Vitória SC",
           "fora": "Moreirense",
           "idCasa": 5543,
           "idFora": 583,
-          "resultado": ""
+          "resultado": "1-1"
         },
         {
           "casa": "Est. Amadora",
           "fora": "Académico",
           "idCasa": 9136,
           "idFora": 5527,
-          "resultado": ""
+          "resultado": "0-2"
         },
         {
           "casa": "Santa Clara",
           "fora": "SC Braga",
           "idCasa": 5530,
           "idFora": 5613,
-          "resultado": ""
+          "resultado": "0-0"
         },
         {
           "casa": "Estoril Praia",
           "fora": "Casa Pia AC",
           "idCasa": 582,
           "idFora": 6618,
-          "resultado": ""
+          "resultado": "1-2"
         },
         {
           "casa": "FC Porto",
           "fora": "SL Benfica",
           "idCasa": 503,
           "idFora": 1903,
-          "resultado": "",
+          "resultado": "3-1",
           "jogoDaSemana": true
         }
       ],
@@ -2678,7 +2678,7 @@
           "picks": [
             "2",
             "1",
-            "",
+            "X",
             "1",
             "X",
             "1",
@@ -2936,9 +2936,9 @@
             "X",
             "1",
             "1",
-            "",
+            "1",
             "2",
-            "",
+            "1",
             "2"
           ]
         },
@@ -3011,6 +3011,141 @@
             "1",
             "1",
             "X",
+            "X",
+            "X",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "ref": "vvgcpw",
+          "nome": "Bruno Rodrigues",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "X",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "jf6eel",
+          "nome": "Leonardo Conceição",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X",
+            "2",
+            "X",
+            "2"
+          ]
+        },
+        {
+          "ref": "11vy9uq",
+          "nome": "Diogo Martins",
+          "picks": [
+            "2",
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1m5vo4k",
+          "nome": "Tiago Ramos",
+          "picks": [
+            "X",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1ci9616",
+          "nome": "Diogo Rodrigues",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "1",
+            "1",
+            "X",
+            "2",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "7qt8am",
+          "nome": "Axel Afonso",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "X",
+            "2",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1oun4ta",
+          "nome": "Rodrigo Táboas",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X",
+            "X",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "1gj1dcs",
+          "nome": "Miguel Baptista",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "1",
+            "2",
+            "2",
+            "2",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "ref": "1kgckcg",
+          "nome": "Rodrigo Freitas",
+          "picks": [
+            "X",
+            "1",
+            "1",
+            "1",
+            "1",
             "X",
             "X",
             "1",
