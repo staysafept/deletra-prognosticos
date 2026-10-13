@@ -18,9 +18,14 @@
         "Bola Oficial da Liga"
       ]
     ],
-    "mes": "2026-09",
-    "premioDoMes": [
-      "Camisola Oficial de um Clube à escolha"
+    "mes": "",
+    "premioDoMes": [],
+    "vencedores": [
+      {
+        "mes": "2026-09",
+        "nome": "bernardo osorio",
+        "premio": "Camisola Oficial de um Clube à escolha"
+      }
     ],
     "nota": "Os prémios podem sofrer alguma alteração ao longo da competição."
   },
@@ -3165,36 +3170,35 @@
           "fora": "Gil Vicente FC",
           "idCasa": 583,
           "idFora": 5533,
-          "resultado": ""
+          "resultado": "0-1"
         },
         {
           "casa": "SC Braga",
           "fora": "Sporting CP",
           "idCasa": 5613,
           "idFora": 498,
-          "resultado": "",
-          "jogoDaSemana": true
+          "resultado": "1-3"
         },
         {
           "casa": "Casa Pia AC",
           "fora": "Santa Clara",
           "idCasa": 6618,
           "idFora": 5530,
-          "resultado": ""
+          "resultado": "0-1"
         },
         {
           "casa": "Marítimo",
           "fora": "FC Porto",
           "idCasa": 5575,
           "idFora": 503,
-          "resultado": ""
+          "resultado": "1-2"
         },
         {
           "casa": "Académico",
           "fora": "Estoril Praia",
           "idCasa": 5527,
           "idFora": 582,
-          "resultado": ""
+          "resultado": "2-1"
         },
         {
           "casa": "Rio Ave FC",
@@ -3957,6 +3961,21 @@
             "1",
             "1",
             "X",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "x5uxcr",
+          "nome": "Rui Gonçalves",
+          "picks": [
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
             "X",
             "1"
           ]
