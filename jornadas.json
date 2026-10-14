@@ -4007,7 +4007,8 @@
           "fora": "FC Arouca",
           "idCasa": 7822,
           "idFora": 712,
-          "resultado": ""
+          "resultado": "",
+          "jogoDaSemana": true
         },
         {
           "casa": "Gil Vicente FC",
