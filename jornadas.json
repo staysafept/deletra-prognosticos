@@ -3205,28 +3205,28 @@
           "fora": "Nacional",
           "idCasa": 496,
           "idFora": 5529,
-          "resultado": ""
+          "resultado": "3-2"
         },
         {
           "casa": "SL Benfica",
           "fora": "Vitória SC",
           "idCasa": 1903,
           "idFora": 5543,
-          "resultado": ""
+          "resultado": "2-0"
         },
         {
           "casa": "FC Arouca",
           "fora": "Est. Amadora",
           "idCasa": 712,
           "idFora": 9136,
-          "resultado": ""
+          "resultado": "1-0"
         },
         {
           "casa": "FC Famalicão",
           "fora": "FC Alverca",
           "idCasa": 5531,
           "idFora": 7822,
-          "resultado": ""
+          "resultado": "1-4"
         }
       ],
       "patronos": [
@@ -3981,6 +3981,78 @@
           ]
         }
       ]
+    },
+    {
+      "n": 9,
+      "mes": "2026-10",
+      "nomeDoMes": "Outubro de 2026",
+      "ate": "2026-10-26T18:45:00.000Z",
+      "jogos": [
+        {
+          "casa": "Vitória SC",
+          "fora": "Marítimo",
+          "idCasa": 5543,
+          "idFora": 5575,
+          "resultado": ""
+        },
+        {
+          "casa": "Est. Amadora",
+          "fora": "Casa Pia AC",
+          "idCasa": 9136,
+          "idFora": 6618,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Alverca",
+          "fora": "FC Arouca",
+          "idCasa": 7822,
+          "idFora": 712,
+          "resultado": ""
+        },
+        {
+          "casa": "Gil Vicente FC",
+          "fora": "FC Porto",
+          "idCasa": 5533,
+          "idFora": 503,
+          "resultado": ""
+        },
+        {
+          "casa": "Estoril Praia",
+          "fora": "Moreirense",
+          "idCasa": 582,
+          "idFora": 583,
+          "resultado": ""
+        },
+        {
+          "casa": "Rio Ave FC",
+          "fora": "FC Famalicão",
+          "idCasa": 496,
+          "idFora": 5531,
+          "resultado": ""
+        },
+        {
+          "casa": "Nacional",
+          "fora": "SC Braga",
+          "idCasa": 5529,
+          "idFora": 5613,
+          "resultado": ""
+        },
+        {
+          "casa": "Sporting CP",
+          "fora": "Académico",
+          "idCasa": 498,
+          "idFora": 5527,
+          "resultado": ""
+        },
+        {
+          "casa": "Santa Clara",
+          "fora": "SL Benfica",
+          "idCasa": 5530,
+          "idFora": 1903,
+          "resultado": ""
+        }
+      ],
+      "patronos": []
     }
   ]
 }
