@@ -1,14 +1,17 @@
 name: Atualizar resultados
 
-# Corre sozinho no GitHub — nao precisa do PC ligado.
+# DESLIGADA a 22/10/2026, a pedido: os resultados vao para o site quando se
+# carrega em "Publicar no site" no painel. Ja nao corre sozinha.
+# So corre se alguem carregar em "Run workflow" no separador Actions.
+#
+# Para voltar a ligar a atualizacao automatica, junta por baixo de "on:":
+#   schedule:
+#     - cron: '*/20 * * * *'
+#   push:
+#     paths:
+#       - 'jornadas.json'
 on:
-  schedule:
-    # de 20 em 20 minutos. O GitHub pode atrasar-se uns minutos em horas de ponta.
-    - cron: '*/20 * * * *'
-  workflow_dispatch:        # botao "Run workflow" para forcar a mao
-  push:
-    paths:
-      - 'jornadas.json'     # publicaste palpites novos: atualiza ja
+  workflow_dispatch:        # botao "Run workflow", so a mao
 
 permissions:
   contents: write
