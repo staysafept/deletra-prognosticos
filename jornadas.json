@@ -4818,7 +4818,308 @@
           "resultado": ""
         }
       ],
-      "patronos": []
+      "patronos": [
+        {
+          "ref": "efq6zr",
+          "nome": "Simao filipe Oliveira silva",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "X",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "1t7b4qt",
+          "nome": "usiL",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "2",
+            "X",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "7oqpsv",
+          "nome": "João Moreira Martins",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "1yn8966",
+          "nome": "Bruno Almeida",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "52qge1",
+          "nome": "Miguel",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "1ymxu64",
+          "nome": "bernardo osorio",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "2",
+            "X",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "ref": "1gumk2u",
+          "nome": "Ricardo Ferreira",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "X",
+            "X",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "ref": "11hzlsm",
+          "nome": "Ricardo Cruz",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "X",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "18sm94e",
+          "nome": "Pedro Mendes",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "irr4cm",
+          "nome": "Miguel Tavares",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "1di6kt7",
+          "nome": "Luís Correia",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "X",
+            "2",
+            "2",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "1tryaxm",
+          "nome": "Martim Soares",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "1",
+            "2",
+            "1",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "il29lq",
+          "nome": "Jose Batista",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "X",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "ref": "a94ncr",
+          "nome": "Hugo Filipe",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "45tecc",
+          "nome": "Gil Moreira",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "1",
+            "X",
+            "1",
+            "X",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "gvv1ch",
+          "nome": "ENTRE/LINHAS",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "X",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "1d9piu0",
+          "nome": "JOSE PIRES",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "X",
+            "X",
+            "1",
+            "X",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "1qnzthx",
+          "nome": "João Viana",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "X",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "bmpnn4",
+          "nome": "Bruno Ferreira",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "X",
+            "X",
+            "1",
+            "1",
+            "X"
+          ]
+        },
+        {
+          "ref": "vvgcpw",
+          "nome": "Bruno Rodrigues",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "X",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1"
+          ]
+        }
+      ]
     }
   ]
 }
