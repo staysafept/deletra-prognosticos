@@ -4758,7 +4758,7 @@
           "fora": "Sporting CP",
           "idCasa": 6618,
           "idFora": 498,
-          "resultado": ""
+          "resultado": "0-2"
         },
         {
           "casa": "Moreirense",
@@ -5402,6 +5402,51 @@
             "1",
             "1",
             "2"
+          ]
+        },
+        {
+          "ref": "1oxli83",
+          "nome": "Diogo Mourão",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "1",
+            "2",
+            "2",
+            "1",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "ref": "7qt8am",
+          "nome": "Axel Afonso",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "ref": "mp4qva",
+          "nome": "Afonso Maria",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "X"
           ]
         }
       ]
