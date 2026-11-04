@@ -5532,21 +5532,6 @@
       ],
       "patronos": [
         {
-          "ref": "bmpnn4",
-          "nome": "Bruno Ferreira",
-          "picks": [
-            "1",
-            "X",
-            "1",
-            "1",
-            "1",
-            "X",
-            "2",
-            "2",
-            "2"
-          ]
-        },
-        {
           "ref": "jf6eel",
           "nome": "Leonardo Conceição",
           "picks": [
@@ -5748,6 +5733,51 @@
             "2",
             "2",
             "X",
+            "1",
+            "X",
+            "1",
+            "2",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "ref": "1ci9616",
+          "nome": "Diogo Rodrigues",
+          "picks": [
+            "2",
+            "X",
+            "1",
+            "1",
+            "2",
+            "X",
+            "1",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "ref": "1d9piu0",
+          "nome": "JOSE PIRES",
+          "picks": [
+            "X",
+            "X",
+            "1",
+            "1",
+            "X",
+            "1",
+            "2",
+            "2",
+            "2"
+          ]
+        },
+        {
+          "ref": "bmpnn4",
+          "nome": "Bruno Ferreira",
+          "picks": [
+            "X",
+            "X",
+            "1",
             "1",
             "X",
             "1",
