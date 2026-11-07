@@ -22,6 +22,11 @@
     "premioDoMes": [],
     "vencedores": [
       {
+        "mes": "2026-10",
+        "nome": "Pedro Mendes",
+        "premio": ""
+      },
+      {
         "mes": "2026-09",
         "nome": "bernardo osorio",
         "premio": "Camisola Oficial de um Clube à escolha"
@@ -5478,7 +5483,7 @@
           "fora": "Académico",
           "idCasa": 5529,
           "idFora": 5527,
-          "resultado": ""
+          "resultado": "Adiado"
         },
         {
           "casa": "FC Alverca",
