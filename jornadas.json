@@ -6123,6 +6123,79 @@
         }
       ],
       "post": "https://www.patreon.com/DeLetra/posts/previsoes-dos-11-174256610"
+    },
+    {
+      "n": 12,
+      "mes": "2026-11",
+      "nomeDoMes": "Novembro de 2026",
+      "ate": "2026-11-30T20:15:00.000Z",
+      "jogos": [
+        {
+          "casa": "Marítimo",
+          "fora": "Nacional",
+          "idCasa": 5575,
+          "idFora": 5529,
+          "resultado": ""
+        },
+        {
+          "casa": "Moreirense",
+          "fora": "Santa Clara",
+          "idCasa": 583,
+          "idFora": 5530,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Arouca",
+          "fora": "Rio Ave FC",
+          "idCasa": 712,
+          "idFora": 496,
+          "resultado": ""
+        },
+        {
+          "casa": "Académico",
+          "fora": "FC Alverca",
+          "idCasa": 5527,
+          "idFora": 7822,
+          "resultado": ""
+        },
+        {
+          "casa": "Vitória SC",
+          "fora": "Est. Amadora",
+          "idCasa": 5543,
+          "idFora": 9136,
+          "resultado": ""
+        },
+        {
+          "casa": "Gil Vicente FC",
+          "fora": "Estoril Praia",
+          "idCasa": 5533,
+          "idFora": 582,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Porto",
+          "fora": "Sporting CP",
+          "idCasa": 503,
+          "idFora": 498,
+          "resultado": ""
+        },
+        {
+          "casa": "Casa Pia AC",
+          "fora": "SC Braga",
+          "idCasa": 6618,
+          "idFora": 5613,
+          "resultado": ""
+        },
+        {
+          "casa": "SL Benfica",
+          "fora": "FC Famalicão",
+          "idCasa": 1903,
+          "idFora": 5531,
+          "resultado": ""
+        }
+      ],
+      "patronos": [],
+      "post": ""
     }
   ]
 }
