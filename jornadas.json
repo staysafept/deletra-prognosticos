@@ -6195,8 +6195,249 @@
           "resultado": ""
         }
       ],
-      "patronos": [],
-      "post": ""
+      "patronos": [
+        {
+          "ref": "1yn8966",
+          "nome": "Bruno Almeida",
+          "picks": [
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "x5uxcr",
+          "nome": "Rui Gonçalves",
+          "picks": [
+            "1",
+            "X",
+            "2",
+            "1",
+            "1",
+            "1",
+            "2",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "gvv1ch",
+          "nome": "ENTRE/LINHAS",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "X",
+            "X",
+            "1",
+            "X",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "2rv40x",
+          "nome": "Silva Hugo",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "1",
+            "X",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "il29lq",
+          "nome": "Jose Batista",
+          "picks": [
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "X",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "1cggrw9",
+          "nome": "João Ameixa",
+          "picks": [
+            "1",
+            "2",
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "156um9z",
+          "nome": "Visão do Adepto",
+          "picks": [
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "s8gx1u",
+          "nome": "Joaoserem",
+          "picks": [
+            "1",
+            "X",
+            "X",
+            "X",
+            "1",
+            "1",
+            "X",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "y8kp0x",
+          "nome": "carlos silva",
+          "picks": [
+            "X",
+            "2",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "1t7b4qt",
+          "nome": "usiL",
+          "picks": [
+            "X",
+            "X",
+            "2",
+            "X",
+            "1",
+            "1",
+            "1",
+            "X",
+            "X"
+          ]
+        },
+        {
+          "ref": "1ymxu64",
+          "nome": "bernardo osorio",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "X",
+            "X"
+          ]
+        },
+        {
+          "ref": "bmpnn4",
+          "nome": "Bruno Ferreira",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "1di6kt7",
+          "nome": "Luís Correia",
+          "picks": [
+            "X",
+            "2",
+            "2",
+            "X",
+            "1",
+            "1",
+            "X",
+            "X",
+            "1"
+          ]
+        },
+        {
+          "ref": "1d9piu0",
+          "nome": "JOSE PIRES",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "1oxli83",
+          "nome": "Diogo Mourão",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "irr4cm",
+          "nome": "Miguel Tavares",
+          "picks": [
+            "1",
+            "X",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        }
+      ],
+      "post": "https://www.patreon.com/DeLetra/posts/previsoes-dos-12-176239413"
     }
   ]
 }
