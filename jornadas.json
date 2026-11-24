@@ -6177,7 +6177,8 @@
           "fora": "Sporting CP",
           "idCasa": 503,
           "idFora": 498,
-          "resultado": ""
+          "resultado": "",
+          "jogoDaSemana": true
         },
         {
           "casa": "Casa Pia AC",
