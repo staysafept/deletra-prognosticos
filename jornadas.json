@@ -6135,7 +6135,7 @@
           "fora": "Nacional",
           "idCasa": 5575,
           "idFora": 5529,
-          "resultado": ""
+          "resultado": "1-1"
         },
         {
           "casa": "Moreirense",
@@ -6540,9 +6540,112 @@
             "2",
             "1"
           ]
+        },
+        {
+          "ref": "o7pj2f",
+          "nome": "Leandro Silva",
+          "picks": [
+            "X",
+            "1",
+            "2",
+            "1",
+            "X",
+            "1",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "ref": "us8r7s",
+          "nome": "Flávio Carvalho",
+          "picks": [
+            "1",
+            "X",
+            "X",
+            "X",
+            "1",
+            "X",
+            "X",
+            "2",
+            "1"
+          ]
         }
       ],
       "post": "https://www.patreon.com/DeLetra/posts/previsoes-dos-12-176239413"
+    },
+    {
+      "n": 13,
+      "mes": "2026-12",
+      "nomeDoMes": "Dezembro de 2026",
+      "ate": "2026-12-07T20:15:00.000Z",
+      "jogos": [
+        {
+          "casa": "Sporting CP",
+          "fora": "Marítimo",
+          "idCasa": 498,
+          "idFora": 5575,
+          "resultado": ""
+        },
+        {
+          "casa": "Nacional",
+          "fora": "SL Benfica",
+          "idCasa": 5529,
+          "idFora": 1903,
+          "resultado": ""
+        },
+        {
+          "casa": "Santa Clara",
+          "fora": "FC Porto",
+          "idCasa": 5530,
+          "idFora": 503,
+          "resultado": ""
+        },
+        {
+          "casa": "SC Braga",
+          "fora": "FC Arouca",
+          "idCasa": 5613,
+          "idFora": 712,
+          "resultado": ""
+        },
+        {
+          "casa": "Est. Amadora",
+          "fora": "Gil Vicente FC",
+          "idCasa": 9136,
+          "idFora": 5533,
+          "resultado": ""
+        },
+        {
+          "casa": "Rio Ave FC",
+          "fora": "Casa Pia AC",
+          "idCasa": 496,
+          "idFora": 6618,
+          "resultado": ""
+        },
+        {
+          "casa": "Estoril Praia",
+          "fora": "Vitória SC",
+          "idCasa": 582,
+          "idFora": 5543,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Famalicão",
+          "fora": "Académico",
+          "idCasa": 5531,
+          "idFora": 5527,
+          "resultado": ""
+        },
+        {
+          "casa": "FC Alverca",
+          "fora": "Moreirense",
+          "idCasa": 7822,
+          "idFora": 583,
+          "resultado": ""
+        }
+      ],
+      "patronos": [],
+      "post": ""
     }
   ]
 }
